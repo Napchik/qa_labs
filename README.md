@@ -1,4 +1,4 @@
-#QA Labs
+# QA Labs
 Repository for QA labs. Made by Shikalovskyi IO-13
 
 ## Requirement
